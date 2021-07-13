@@ -1,5 +1,7 @@
+<!-- <div align="center"> -->
 ### Hi there, I'm Tarun!👋
-
+#### Welcome to my github profile!
+<!-- <div/> -->
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Node.js and MongoDB.
