@@ -1,6 +1,7 @@
 <!-- <div align="center"> -->
-### Hi there, I'm Tarun!👋
-#### Welcome to my github profile!
+## Hi there<img src="https://emojis.slackmojis.com/emojis/images/1584725500/8268/blob-hype.gif?1584725500" width="30px">
+### I'm Tarun!👋
+#### Welcome to my github profile!<img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30px">
 <!-- <div/> -->
 
 - 🔭 I’m currently working on something cool
