@@ -27,7 +27,16 @@
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
             src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-1024.png" alt="Java" width="43"
             height="43" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+    <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40"
+            height="40" /> </a>
+     <a href="https://www.w3schools.com/css/" target="_blank" title ="css"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40"
+            height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"
+            height="40" /> </a>
+<!--    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
@@ -68,16 +77,7 @@
             height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
+            height="40" /> </a> -->
 
 <!-- copy from position 0 for addition else it will result in adjustment problem on y-axis:) -->
 </p>
