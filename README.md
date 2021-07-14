@@ -21,6 +21,6 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarun-19&theme=github&count_private=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarun-19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 <div/>
