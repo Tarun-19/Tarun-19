@@ -21,12 +21,12 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+    <a href="https://www.python.org" target="_blank" title ="Python"> <img
+            src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="python" width="40"
             height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
+    <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
+            src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-1024.png" alt="Java" width="43"
+            height="43" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
