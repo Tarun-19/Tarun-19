@@ -36,10 +36,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"
             height="40" /> </a>
-<!--    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+    <a href="https://nodejs.org" target="_blank" title ="Nodejs"> <img
+            src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" alt="Nodejs" width="45"
             height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+<!--    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
