@@ -18,3 +18,9 @@
   ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarun-19&theme=vue-dark&show_icons=true)
   
 <div/>
+
+<div align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarun-19&theme=github&count_private=true)
+
+<div/>
