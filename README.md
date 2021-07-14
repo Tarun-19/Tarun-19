@@ -13,11 +13,83 @@
 <p align="center"><img src="https://media.tenor.com/images/adf07336af22551743b9eefc63e728e6/tenor.gif" /></p>
 
 
+<h3 align="center">Familiar with</h3>
+<p align="center">
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+
+<!-- copy from position 0 for addition else it will result in adjustment problem on y-axis:) -->
+</p>
+
+
 <div align="center">
   
   ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarun-19&theme=vue-dark&show_icons=true)
   
 <div/>
+
+
 
 <div align="center">
 
