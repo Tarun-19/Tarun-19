@@ -15,6 +15,6 @@
 
 <div align="center">
   
-[![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=Tarun-19&hide=["prs"])](https://github.com/Tarun-19/github-readme-stats)
-
-  <div/>
+  ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarun-19&theme=vue-dark&show_icons=true)
+  
+<div/>
