@@ -37,4 +37,7 @@
     <a href="https://www.instagram.com/tarun.2000/?hl=en" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
+    <a href="https://t.me/Sinchan_10" target="blank"><img align="center"
+            src="https://cdn0.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png" alt="telegram" height="53"
+            width="53" /></a>
 </p>
