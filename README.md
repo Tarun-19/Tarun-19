@@ -24,3 +24,17 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarun-19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 <div/>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="mailto:tarunkumar281200@gmail.com" target="blank"><img align="center"
+            src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="gmail" height="45"
+            width="45" /></a>
+    <a href="https://www.linkedin.com/in/tarun-kumar-7489651a0/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="41"
+            width="41" /></a>
+    <a href="https://www.instagram.com/tarun.2000/?hl=en" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
+            width="40" /></a>
+</p>
