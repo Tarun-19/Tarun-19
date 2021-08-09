@@ -114,4 +114,8 @@
     <a href="https://t.me/Sinchan_10" target="blank"><img align="center"
             src="https://cdn0.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png" alt="telegram" height="53"
             width="53" /></a>
+    <a href="https://discordapp.com/channels/796702017237549096" target="blank"><img align="center"
+            src="https://image.flaticon.com/icons/png/512/2111/2111370.png" alt="discord" height="50"
+            width="50" /></a>
+    
 </p>
