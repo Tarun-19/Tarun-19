@@ -102,9 +102,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="mailto:tarunkumar281200@gmail.com" target="blank"><img align="center"
-            src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="gmail" height="45"
-            width="45" /></a>
     <a href="https://www.linkedin.com/in/tarun-kumar-7489651a0/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="41"
             width="41" /></a>    
